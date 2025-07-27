@@ -15,8 +15,6 @@ A full-stack application for monitoring cloud resources and discovering cost opt
 > **Sample Dashboard UI:**
 >
 > ![Dashboard Screenshot](docs/dashboard-screenshot.png)
->
-> *(Add your own screenshots in the `docs/` folder for better illustration.)*
 
 ---
 
